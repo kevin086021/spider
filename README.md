@@ -27,8 +27,8 @@ test_db.py 		    测试数据库的连接文件
 ```
 安装python环境：
     参考文档 https://www.runoob.com/python/python-install.html
-    建议安装 **python3.7.2** 版本
-    数据库 **Mysql5.6.40**
+    建议安装 python3.7.2 版本
+    数据库 Mysql5.6.40
 
 安装程序依赖库：
     pip install -r library.txt
@@ -43,10 +43,10 @@ Q: 安装过程中遇到模块不存在怎么办？
 A: 使用命令 pip install 缺少的模块名
 
 Q: 安装后如何确认安装是否成功？
-A: 在项目根目录下执行 **python test_db.py** 如果看到 **Congratulations!**表示安装成功。
+A: 在项目根目录下执行 python test_db.py 如果看到 Congratulations!表示安装成功。
 
 Q: 如何执行我的项目文件？
-A: 在项目根目录执行 **python main.py**
+A: 在项目根目录执行 python main.py
 
 Q: 使用过程中遇到化佷长时间都解决不了的问题怎么办？
 A: 加QQ群：524457133 大家一起讨论
