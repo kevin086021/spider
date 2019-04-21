@@ -10,14 +10,14 @@ date: 2019-04-21 16:46
 '''
 class Mysql:
 
-	_db_host = DB_HOST					#数据库地址
+	_db_host = DB_HOST				#数据库地址
 	_db_user = DB_USER_NAME				#数据库连接用户名
 	_db_pass = DB_PASSWORD				#数据库密码
-	_db_name = DB_NAME					#数据库名称
-	_db_port = DB_PORT					#数据库端口号
+	_db_name = DB_NAME				#数据库名称
+	_db_port = DB_PORT				#数据库端口号
 	_db_charset = DB_CHARSET			#数据库编码方式
 
-	_db_connect = None					#连接数据库的实例对象
+	_db_connect = None				#连接数据库的实例对象
 	_db_connect_flag = True	 			#数据库连接标识
 
 	# 初始化
