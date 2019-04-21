@@ -20,7 +20,7 @@ class Main():
 
 if __name__ == '__main__':
 	
-    warnings.filterwarnings("ignore")		#获略警告
+    warnings.filterwarnings("ignore")		#忽略警告
     
     work = Main()
 
