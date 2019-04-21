@@ -16,7 +16,7 @@ class Main():
 			obj = Xiaoshuo()
 			obj.run()
 		else:
-			print('Nothin to do...')
+			print('Nothing to do...')
 
 if __name__ == '__main__':
 	
