@@ -13,7 +13,7 @@ config		            包含所有的数据库配置文件
 data 		            包含所有的默认数据
     mysql_data.sql 	    mysql库中表的默认结构和数据
 scr 		            包含当前项目的主要应用程序文件
-    xiaoshuo.py 	            小说爬虫简单示例
+    xiaoshuo.py 	    小说爬虫简单示例
     ...		            所有其它业务逻辑的爬虫程序都放在这里
 tools			    包含所有的工具
     db_mysql.py             mysql数据库的操作类
