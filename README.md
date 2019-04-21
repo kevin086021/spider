@@ -47,7 +47,7 @@ Q: 安装后如何确认安装是否成功？
 A: 在项目根目录下执行 python test_db.py 如果看到 Congratulations!表示安装成功。
 
 Q: 如何执行我的项目文件？
-A: 在项目根目录执行 python main.py
+A: 在项目根目录执行 python main.py xiaoshuo
 
 Q: 使用过程中遇到化佷长时间都解决不了的问题怎么办？
 A: 加QQ群：524457133 大家一起讨论
