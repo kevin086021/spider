@@ -1,0 +1,10 @@
+# phpstorm project files
+.idea
+
+# Python pyc files
+*.pyc
+config/*.pyc
+tools/*.pyc
+.project
+
+__pycache__
