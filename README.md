@@ -17,7 +17,7 @@ scr 		            包含当前项目的主要应用程序文件
     ...		            所有其它业务逻辑的爬虫程序都放在这里
 tools			    包含所有的工具
     db_mysql.py             mysql数据库的操作类
-    function.py 	        常用函数的操作类
+    function.py 	    常用函数的操作类
 library.txt 		    环境依赖的库
 test_db.py 		    测试数据库的连接文件
 ```
