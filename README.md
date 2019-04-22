@@ -20,7 +20,7 @@ tools			    包含所有的工具
     function.py 	    常用函数的操作类
 library.txt 		    环境依赖的库
 test_db.py 		    测试数据库的连接文件
-main.py                     程序的入口文件
+main.py                     应用程序的入口文件
 ```
 
 环境搭建说明
