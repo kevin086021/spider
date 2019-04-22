@@ -3,8 +3,9 @@
 
 # Python pyc files
 *.pyc
-config/*.pyc
-tools/*.pyc
-.project
 
+# Any folder python pyc files
+*/*.pyc
+
+# Python cache folder
 __pycache__
