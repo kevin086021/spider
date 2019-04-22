@@ -30,18 +30,17 @@ def get_share_code(code):
 	num = len(strCode)
 
 	if num == 1:
-		strCode = '00000' + strCode
+		return '00000' + strCode
 	elif num == 2: 
-		strCode = '0000' + strCode 
+		return '0000' + strCode 
 	elif num == 3:
-		strCode = '000' + strCode
+		return '000' + strCode
 	elif num == 4:
-		strCode = '00' + strCode
+		return '00' + strCode
 	elif num == 5:
-		strCode = '0' + strCode 
+		return '0' + strCode 
 	else:
-		strCode = strCode 
-	return strCode
+		return strCode 
 
 #获取主机名
 def get_host_name():
