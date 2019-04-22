@@ -56,7 +56,3 @@ class Xiaoshuo(object):
 
 		print('完成: ' + url + ' ' + get_date_time(1))
 		del html, li_list, collect, url
-
-			
-
-		

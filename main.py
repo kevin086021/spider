@@ -11,7 +11,6 @@ date: 2019-04-21 22:06
 class Main():
 
 	def run(self, argv):
-
 		if argv and argv[0] == 'xiaoshuo':
 			obj = Xiaoshuo()
 			obj.run()
@@ -19,12 +18,12 @@ class Main():
 			print('Nothing to do...')
 
 if __name__ == '__main__':
-	
-    warnings.filterwarnings("ignore")		#忽略警告
-    
-    work = Main()
 
-    work.run(sys.argv[1:])
+	warnings.filterwarnings("ignore")		#忽略警告
+
+	work = Main()
+
+	work.run(sys.argv[1:])
 
 
 '''
